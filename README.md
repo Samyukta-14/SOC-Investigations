@@ -32,7 +32,7 @@ Vyatta
 Each case follows the same format:
  
 - Scenario
-- Investigation approach with MITRE ATT&CK mapping amd screenshots
+- Investigation approach with MITRE ATT&CK mapping amnd screenshots
 - Detection rules
 - Mitigation and remediation
 - Lessons learned
